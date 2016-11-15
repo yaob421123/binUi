@@ -28,5 +28,6 @@ gulp watch
 - 九宫格组件-grid
 - 面板组件-panel
 - 弹出式提醒组件-toast
+- css3动画效果-anmate
 
 
