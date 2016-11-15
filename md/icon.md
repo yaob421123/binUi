@@ -5,6 +5,9 @@
 # icon
 
 class：bin_btn是基础icon样式。
+
+图标颜色及字体大小可修改 i 标签 来定义。
+
 目前收集的是比较常用的几个icon图标，后续会不断更新。
 
 ![calendar](https://github.com/yaob421123/binUi/blob/master/md/img/icon.png)
